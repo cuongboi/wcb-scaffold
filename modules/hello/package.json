@@ -1,0 +1,8 @@
+{
+  "name": "@modules/hello",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Example workbench module: a widget in every location, a menu, commands, a palette and a server route.",
+  "main": "index.tsx"
+}
